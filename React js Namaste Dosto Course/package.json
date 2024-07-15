@@ -1,0 +1,13 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "React by Avinash.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+
+  "author": "Avinash Markad",
+  "license": "ISC"
+}
