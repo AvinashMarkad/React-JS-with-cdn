@@ -1,5 +1,6 @@
 React JS
 
+
 #1.Create a project directory:
 
 bash
@@ -21,8 +22,12 @@ Create a js directory and a script.js file:
 
 bash
 Copy code
+add CDN links
+then,
 mkdir js
-touch js/script.js
+touch js/app.js
+*order is important first paste links and then write app.js file
+
 
 #2.For json
 
@@ -60,5 +65,16 @@ About to write to /home/avinash/Desktop/React js Namaste Dosto Course/package.js
   "license": "ISC"
 }
 
-
 Is this OK? (yes) y
+
+
+#3 For install Parcel from npm, there is store packages
+vinash@Computer:~/Desktop/React js Namaste Dosto Course$ npm install -D parcel
+npm warn deprecated stable@0.1.8: Modern JS already guarantees Array#sort() is a stable sort, so this library is deprecated. See the compatibility table on MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#browser_compatibility
+
+added 189 packages, and audited 190 packages in 2m
+
+86 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
